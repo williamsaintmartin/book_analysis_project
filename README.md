@@ -1,7 +1,7 @@
 # BOOK ANALYSIS PROJECT
 
 ## Problem Statement
-I want to determine the themes of books, from the Gutenberg Project, to guide reading selection.
+I want to analyze books, from the Gutenberg Project, to determine their theme.
 
 ## Technologies Used
 
